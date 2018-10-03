@@ -11,4 +11,5 @@ The training of SVM is as follow:
 
 Requirement:
 ------------
+VLFeat:
 http://www.vlfeat.org/install-matlab.html
