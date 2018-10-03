@@ -1,4 +1,4 @@
-# COMP 5421 Project 2 - Face Detection with HOG+SVM
+# Face Detection with HOG+SVM
 
 This project is about face detection, by hybrid of feature extraction and supervised learning. The feature extraction used is Histogram of Oriented Gradients (HOG) and linear Support Vector Machine (linear SVM) is used as supervised learning. Both HOG and SVM are VLFeat implemented function on MATLAB.
 
